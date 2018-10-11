@@ -1,4 +1,4 @@
-# Team_Juggernaut_cfd
+# Team_Juggernaut
 
 Code.Fun.Do++ Project Idea :
 
